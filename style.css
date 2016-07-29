@@ -1,0 +1,88 @@
+
+header {
+ 	font:28px;
+  	text-align:center;
+  	background-color:#d21304;
+  	font-color:#FFFFF;
+  	padding-top: 0px;
+}
+
+body {
+	background-color: #efeee7;
+	font:"Georgia",Times New Roman,Times,serif;
+	font color:#33333;
+	margin:0;
+	padding:0;
+}
+
+h1 {
+  	font-size:28px;
+  	background-color:#33333;
+  	font-color:#FFFFFF;
+  	text-align:center;
+  	color:black;
+}
+
+
+ h2 {
+  	font-size:24px;
+  	background-color:#33333;
+  	font-color:#FFFFF;
+    	text-align:left;
+    	color:black;
+}
+
+.container {
+	margin:0 auto;
+	margin-width:1024px;
+}
+
+#main-bio {
+	float:left;
+}
+
+#contact-info {
+	float:left;
+	width:30%;
+	font-color:#d21034;
+	font-height:10px;
+	line-height:15px;
+	text-anchor-color;#d21034;
+}
+
+#bio-image {
+	float:left;
+	width:200px;
+	height:160;
+	margin-left;10px
+	margin-right;10px
+}
+
+section {
+	width:70%;
+	float:left;
+}
+
+
+aside {
+	width:30%;
+	float:right;
+}
+
+img {
+	display:block;
+	margin-left;auto
+}
+
+
+
+p {
+	float:left;
+    	width:90px;
+    	margin-left:15px;
+}
+
+
+	
+
+</style>
